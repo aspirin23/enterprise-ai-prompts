@@ -88,4 +88,4 @@ Each prompt follows a consistent structure:
 
 Built by [Anindya](https://www.linkedin.com/in/anindya-chakraborty-iimb/) — senior supply chain and AI professional, Claude Certified Architect. Connect on LinkedIn for posts on enterprise AI, supply chain, and practical LLM applications.
 
-*Prompts added regularly. Star the repo to follow along.*
+*Prompts added regularly. Star the repo to follow along.* 
