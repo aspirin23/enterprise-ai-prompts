@@ -295,4 +295,4 @@ The goal is not to give you prompts to copy. It is to give you a mental model th
 
 ---
 
-*Part of the [supply-chain-llm-guide](https://github.com/anindya/supply-chain-llm-guide) repository. New content added regularly — star the repo to follow along.*
+*Part of the [supply-chain-prompts-playbook](https://github.com/aspirin23/supply-chain-prompts-playbook) repository. New content added regularly — star the repo to follow along.*
